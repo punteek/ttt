@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>tttai</label>
+		<id>116</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>tttai.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>tttai.jcp</path>
+		</project>
+	</projects>
+</workspace>
